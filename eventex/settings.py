@@ -18,7 +18,7 @@ from dj_database_url import parse as dburl
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-# Quick-start development settings - unsuitable for production
+# Quick-start development settings - unsuitable for productiongit
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
