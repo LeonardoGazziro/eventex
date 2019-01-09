@@ -6,3 +6,4 @@
 __pycache__
 __init__.py
 staticfiles
+.ipynb_checkpoints/
